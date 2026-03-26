@@ -4,3 +4,8 @@ Identifico los documentos que debo modificar.
 Anoto los nombres para no confundirme.
 Así me familiarizo con la estructura del otro.
 
+En esta prueba estoy actualizando mi copia.
+Reviso si hay cambios nuevos del repositorio.
+Ejecuto el comando para traer lo actualizado.
+Me aseguro de no perder mi trabajo local.
+Así mantengo sincronizado todo el proyecto.

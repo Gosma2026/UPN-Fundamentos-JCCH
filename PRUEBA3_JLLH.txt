@@ -4,3 +4,8 @@ Selecciono la carpeta donde quiero guardarlo.
 Espero que todos los archivos bajen bien.
 Así empiezo a trabajar con el código ajeno.
 
+En esta prueba estoy editando un archivo.
+Abro el código con mi editor favorito.
+Cambio solo lo que me pidieron modificar.
+Guardo los cambios antes de continuar.
+Así preparo mi contribución al proyecto.
