@@ -1,0 +1,6 @@
+En esta prueba estoy descargando el repositorio.
+Busco la opción que dice clonar o copiar.
+Selecciono la carpeta donde quiero guardarlo.
+Espero que todos los archivos bajen bien.
+Así empiezo a trabajar con el código ajeno.
+
